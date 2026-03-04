@@ -264,6 +264,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
 
+****PH MOVIES****
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zGxgIm.png" group-title="MOVIES", Noypi Movies
+https://strong8kdl.xyz/moviechannel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", Sine Manila
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
+
 ****Movies****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="MOVIES", HBO CIG
@@ -293,9 +300,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", Noypi Movies
-https://strong8kdl.xyz/moviechannel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="MOVIES", Tap Movies CIG
 #KODIPROP:inputstreamaddon=inputstream.adaptive

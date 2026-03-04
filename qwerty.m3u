@@ -265,10 +265,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
 
 ****PH MOVIES****
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zGxgIm.png" group-title="MOVIES", Noypi Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PH MOVIES", Noypi Movies
 https://strong8kdl.xyz/moviechannel/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", Sine Manila
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zGxgIm.png" group-title="PH MOVIES", Sine Manila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 
 ****Movies****

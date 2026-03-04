@@ -364,6 +364,50 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f9c3d6b18a2e4d7f9e453b1a8c6d2f70:ce8874347ec428c624558dcdc3575dd4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
+****KIDS****
+
+#EXTINF:-1 tvg-id="cartoon_net_hd" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="dreamworks_hd" group-title="KIDS" tvg-logo="https://i.imgur.com/cgfKSDP.png",DreamWorks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="moonbug_kids" group-title="KIDS" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png",Moonbug
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png" group-title="KIDS",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="KIDS",Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="KIDS", Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e7b9d2c6a4f4d8c9f33b5c1a8d7e260:67336c0c5b24fb4b8caac248dad3c55d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
+
 ****SPORTS****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="Cignal", NBA TV Philippines

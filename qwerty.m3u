@@ -49,7 +49,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?app_bundle=&app_name=iwant&app_store_url=&channel_name=DZMMTeleradyo&content_id=b4c8a8c5-2f20-4686-be75-b20b797be711&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=d959e301-d7e5-5946-8c47-62d7cf26cadd&dnt=0&dur=0&gdpr=0&gdpr_consent=0&genre=News&ifa_type=PPID&ip=2001%3A4450%3A4f79%3A9a00%3A715c%3A7a3%3Aad17&language=fil&lmt=0&network_name=ABS-CBN&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=13%2B&sid=c27d89e6-af4b-4876-8851-b8385c080d33&title=DZMMTeleradyo&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F145.0.0.0+Safari%2F537.36&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2Fb4c8a8c5-2f20-4686-be75-b20b797be711&us_privacy=1---
 
 #EXTINF:-1 group-title="PH Channels" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
 #KODIPROP:inputstreamaddon=inputstream.adaptive

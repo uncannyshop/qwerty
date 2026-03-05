@@ -575,6 +575,18 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://media.licdn.com/dms/image/v2/D4E12AQFnIioLTuvxFg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691681260734?e=2147483647&v=beta&t=vfqraigOK4WphGIBKZK1AggHCgapBVfac8Ze4DAT0-Y", Billiard TV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/629720.ts
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png" group-title="SPORTS", beIN Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png" group-title="SPORTS", beIN Sports 2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png" group-title="SPORTS", beIN Sports 3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png" group-title="SPORTS", beIN Sports 4
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

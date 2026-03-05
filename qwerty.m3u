@@ -569,6 +569,12 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nba_tv_hd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="SPORTS", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="SPORTS", Tennis USA
+http://nor1live.win/livehttpplay?channel_id=23129
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="SPORTS", Bosi Tennis
+http://208.87.242.55/livehttpplay?channel_id=42026
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://media.licdn.com/dms/image/v2/D4E12AQFnIioLTuvxFg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691681260734?e=2147483647&v=beta&t=vfqraigOK4WphGIBKZK1AggHCgapBVfac8Ze4DAT0-Y", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 

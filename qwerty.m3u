@@ -593,6 +593,13 @@ https://hls.iill.top/api/beIN-Sports-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png" group-title="SPORTS", beIN Sports 4
 https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png",TnT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

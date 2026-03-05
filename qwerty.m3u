@@ -559,7 +559,7 @@ https://slive.mana2.my/AniPlus/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="SPORTS", NBA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnukUjWgFK6ob_VaFitkMKcEuWV6V6Tcn6UA&s" group-title="SPORTS", NBA TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey

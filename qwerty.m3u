@@ -324,7 +324,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="NEWS", FOX News
-https://tvpass.org/live/FoxNewsChannel/hd
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2278.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="NEWS", FOX News
 #KODIPROP:inputstreamaddon=inputstream.adaptive

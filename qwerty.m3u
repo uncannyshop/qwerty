@@ -341,6 +341,9 @@ https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_news_hd/default/index.mpd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
 
 #EXTINF:-1 tvg-id="bbcworld_news" group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+
+#EXTINF:-1 tvg-id="bbcworld_news" group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png",BBC News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -352,6 +355,12 @@ http://nor1live.win/livehttpplay?channel_id=23116
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS", ABC News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/38235.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS", NBC News NOW
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/638808.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS", SKY News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2197.ts

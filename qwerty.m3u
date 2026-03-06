@@ -603,13 +603,13 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" tvg-name="USA: NBA TV" group-title="NBA Live",USA: NBA TV
 http://zerotwo.access.ly:2096/Kentynes/0176324859/815053
-#EXTINF:-1 tvg-id="NBA 01" tvg-logo="" tvg-name="NBA 01" group-title="NBA Live",NBA 01
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA 01" group-title="NBA Live",NBA 01
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822062
-#EXTINF:-1 tvg-id="NBA 02" tvg-logo="" tvg-name="NBA 02" group-title="NBA Live",NBA 02
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA 02" group-title="NBA Live",NBA 02
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822063
-#EXTINF:-1 tvg-id="NBA 03" tvg-logo="" tvg-name="NBA 03" group-title="NBA Live",NBA 03
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA 03" group-title="NBA Live",NBA 03
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822064
-#EXTINF:-1 tvg-id="NBA 04" tvg-logo="" tvg-name="NBA 04" group-title="NBA Live",NBA 04
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA 04" group-title="NBA Live",NBA 04
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822065
 #EXTINF:-1 tvg-id="NBA 05" tvg-logo="" tvg-name="NBA 05" group-title="NBA Live",NBA 05
 http://zerotwo.access.ly:2096/Kentynes/0176324859/822066

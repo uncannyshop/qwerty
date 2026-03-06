@@ -357,6 +357,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 #EXTINF:-1 tvg-id="bbcworld_news" group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png",BBC World News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3611.ts
 
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png",BBC News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd
+
 #EXTINF:-1 tvg-id="bbcworld_news" group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo-500x281.png",BBC News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -415,8 +421,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NEWS", France24
-https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/France24_v1.png",522 France24
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NEWS", France24
 #KODIPROP:inputstreamaddon=inputstream.adaptive

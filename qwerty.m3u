@@ -599,6 +599,39 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
+****NBA LIVE****
+
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" tvg-name="USA: NBA TV" group-title="NBA Live",USA: NBA TV
+http://zerotwo.access.ly:2096/Kentynes/0176324859/815053
+#EXTINF:-1 tvg-id="NBA 01" tvg-logo="" tvg-name="NBA 01" group-title="NBA Live",NBA 01
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822062
+#EXTINF:-1 tvg-id="NBA 02" tvg-logo="" tvg-name="NBA 02" group-title="NBA Live",NBA 02
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822063
+#EXTINF:-1 tvg-id="NBA 03" tvg-logo="" tvg-name="NBA 03" group-title="NBA Live",NBA 03
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822064
+#EXTINF:-1 tvg-id="NBA 04" tvg-logo="" tvg-name="NBA 04" group-title="NBA Live",NBA 04
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822065
+#EXTINF:-1 tvg-id="NBA 05" tvg-logo="" tvg-name="NBA 05" group-title="NBA Live",NBA 05
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822066
+#EXTINF:-1 tvg-id="NBA 06" tvg-logo="" tvg-name="NBA 06" group-title="NBA Live",NBA 06
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822067
+#EXTINF:-1 tvg-id="NBA 07" tvg-logo="" tvg-name="NBA 07" group-title="NBA Live",NBA 07
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822068
+#EXTINF:-1 tvg-id="NBA 08" tvg-logo="" tvg-name="NBA 08" group-title="NBA Live",NBA 08
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822069
+#EXTINF:-1 tvg-id="NBA 09" tvg-logo="" tvg-name="NBA 09" group-title="NBA Live",NBA 09
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822070
+#EXTINF:-1 tvg-id="NBA 10" tvg-logo="" tvg-name="NBA 10" group-title="NBA Live",NBA 10
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822071
+#EXTINF:-1 tvg-id="NBA 11" tvg-logo="" tvg-name="NBA 11" group-title="NBA Live",NBA 11
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822072
+#EXTINF:-1 tvg-id="NBA 12" tvg-logo="" tvg-name="NBA 12" group-title="NBA Live",NBA 12
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822073
+#EXTINF:-1 tvg-id="NBA 13" tvg-logo="" tvg-name="NBA 13" group-title="NBA Live",NBA 13
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822074
+#EXTINF:-1 tvg-id="NBA 14" tvg-logo="" tvg-name="NBA 14" group-title="NBA Live",NBA 14
+http://zerotwo.access.ly:2096/Kentynes/0176324859/822075
+
 ****SPORTS****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="SPORTS", NBA TV Philippines

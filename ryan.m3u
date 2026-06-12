@@ -11,6 +11,13 @@
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd?sessionId=16d6e9e2-ccdc-4608-9f65-b219a865b16e
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" channel-number="1" group-title="IWant", DZMM Teleradyo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
 **********Cignal-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"

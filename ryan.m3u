@@ -1259,11 +1259,12 @@ http://supersonictv.live:8080/611366/682256/22124
 http://supersonictv.live:8080/611366/682256/22125
 
 **********MOVIES**********
-#EXTINF:-1 group-title=Movies" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",Sugar Mommy (2026)
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",Sugar Mommy (2026)
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0145347f63de9c31c045efdce8855d5:ce27e3e842f565e770e83de016b3ae89
-https://cdnvmx.vivamax.net/video/T01223FFLMSUGARMOMMY_89658cb6a5cd12de202dfd4c4fa2df5efe8114fd440a0cf1395e00185c8519a7/dash/hd.mpd
+https://cdnvmx.vivamax.net/video/T01223FFLMSUGARMOMMY_89658cb6a5cd12de202dfd4c4fa2df5efe8114fd440a0cf1395e00185c8519a7/dash/hd.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Origin=https://vivamax.net&Referer=https://vivamax.net/
 
 **********FM Radio**********
 

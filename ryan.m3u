@@ -1259,7 +1259,7 @@ http://supersonictv.live:8080/611366/682256/22124
 http://supersonictv.live:8080/611366/682256/22125
 
 **********MOVIES**********
-#EXTM3U
+
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",Sugar Mommy (2026)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey

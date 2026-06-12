@@ -1,6 +1,15 @@
-#EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
+#EXTM3U billed-msg="M3U PLAYLIST BY: me"
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+
+**********IWANT**********
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" channel-number="1" group-title="IWant", Kapamilya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd?sessionId=16d6e9e2-ccdc-4608-9f65-b219a865b16e
 
 **********Cignal-TV**********
 

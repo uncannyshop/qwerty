@@ -12,7 +12,7 @@
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd?sessionId=16d6e9e2-ccdc-4608-9f65-b219a865b16e
 
-**********Cignal-TV**********
+#EXTINF:-1,**********Cignal-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
@@ -1117,19 +1117,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
-
-
-**********MOVIES**********
-
-#EXTM3U
-#EXTINF:-1 group-title="FREE" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",Sugar Mommy (2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vivamax.net/
-#EXTVLCOPT:http-origin=https://vivamax.net
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0145347f63de9c31c045efdce8855d5:ce27e3e842f565e770e83de016b3ae89
-https://cdnvmx.vivamax.net/video/T01223FFLMSUGARMOMMY_89658cb6a5cd12de202dfd4c4fa2df5efe8114fd440a0cf1395e00185c8519a7/dash/hd.mpd
-
 
 **********FM Radio**********
 

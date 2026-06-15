@@ -12,31 +12,6 @@
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd?sessionId=16d6e9e2-ccdc-4608-9f65-b219a865b16e
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" channel-number="1" group-title="FREE", DZMM Teleradyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" channel-number="1" group-title="FREE", MYX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" channel-number="1" group-title="FREE", Cinemo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd?app_bundle=&app_name=iwant&app_store_url=&channel_name=Cinemo&content_id=8726a6a8-2ad3-4c70-b4df-8084fcfa2b69&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=e8965cc4-443e-5ef0-aaa6-9a2d6d6afcab&dnt=0&dur=0&gdpr=0&gdpr_consent=0&genre=Action%2CComedy&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=13%2B&sid=54674a21-0551-44a6-b7d6-2035bb553130&title=Cinemo&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2F8726a6a8-2ad3-4c70-b4df-8084fcfa2b69&us_privacy=1---
-
-
 **********Cignal-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"

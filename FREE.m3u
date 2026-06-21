@@ -6,6 +6,8 @@ https://localhost/movies.mpd
 EXTINF:-1 group-title="Movies", Movies
 http://176.111.37.126:8080/Star.Wars.The.Mandalorian.And.Grogu.2026.1080p.DCPRiP.x264-DJT.m3u8
 
+EXTINF:-1 group-title="Movies", Heart of Asia
+https://cignalplaymaxcdn.qzz.io/wsign/proxy.m3u8
 
 #EXTINF:-1 group-title="FREE",**********BlasTV**********
 https://localhost/fakeblasttv.mpd

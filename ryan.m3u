@@ -13,8 +13,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" channel-number="1" group-title="IWant", DZMM Teleradyo
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Origin=https://www.iwanttfc.com&Referer=https://www.iwanttfc.com/
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?app_bundle=&app_name=iwant&channel_name=DZMMTeleradyo&content_id=b4c8a8c5-2f20-4686-be75-b20b797be711&content_livestream=1&content_producer_name=ABS-CBN&language=fil&network_name=ABS-CBN&title=DZMMTeleradyo&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2Fb4c8a8c5-2f20-4686-be75-b20b797be711
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" channel-number="1" group-title="IWant", MYX
 #KODIPROP:inputstreamaddon=inputstream.adaptive

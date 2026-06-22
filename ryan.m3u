@@ -12,8 +12,11 @@
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd?sessionId=16d6e9e2-ccdc-4608-9f65-b219a865b16e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" channel-number="1" group-title="IWant", DZMM Teleradyo
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36&Origin=https://www.iwanttfc.com&Referer=https://www.iwanttfc.com/
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?app_bundle=&app_name=iwant&app_store_url=&channel_name=DZMMTeleradyo&content_id=b4c8a8c5-2f20-4686-be75-b20b797be711&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=5e24502c-4ed1-536b-94fb-86379170c89c&dnt=0&dur=0&gdpr=0&gdpr_consent=0&genre=News&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&rating=13%2B&sid=81d07bf1-2af3-4e31-87e0-bac1443bd006&title=DZMMTeleradyo&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2Fb4c8a8c5-2f20-4686-be75-b20b797be711&us_privacy=1---
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/manifest.mpd?sessionId=81d07bf1-2af3-4e31-87e0-bac1443bd006
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" channel-number="1" group-title="IWant", MYX
 #KODIPROP:inputstreamaddon=inputstream.adaptive

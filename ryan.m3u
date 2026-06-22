@@ -16,7 +16,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd?channel_name=DZMMTeleradyo&content_id=b4c8a8c5-2f20-4686-be75-b20b797be711&language=fil&network_name=ABS-CBN&title=DZMMTeleradyo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/manifest.mpd?sessionId=c4463312-fb17-4b3d-bf25-42eaf0c4b13d
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" channel-number="1" group-title="IWant", MYX
 #KODIPROP:inputstreamaddon=inputstream.adaptive

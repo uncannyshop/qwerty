@@ -627,6 +627,12 @@ http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87
 
 ##### WORLD TV #####
 
+#EXTINF:-1 tvg-id="wctv1" tvg-name="WCTV" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="World TV", WCTV
+http://wccdn.djdoolky76.net/stream/wctv/index.m3u8
+
+#EXTINF:-1 tvg-id="wctv2" tvg-name="WCTV2" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="World TV", WCTV2
+http://wccdn.djdoolky76.net/stream/wctv2/index.m3u8
+
 #EXTINF:-1 tvg-id="Abc.Australia.ph" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="World TV",ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

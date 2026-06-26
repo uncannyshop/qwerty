@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U "https://raw.githubusercontent.com/djdoolky76/Mediaquest-EPG/main/cignal_epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz"
 
 #EXTINF:-1 tvg-id="cg_a2z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Cignal",A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive

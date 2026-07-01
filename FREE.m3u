@@ -993,3 +993,112 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+
+*****SAMSUNG TV*****
+
+# --- News ---
+#EXTINF:-1 group-title="News",4020 Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",4023 Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 group-title="News",4024 Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",4027 France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 group-title="News",Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
+
+# --- Movies ---
+#EXTINF:-1 group-title="Movies",4071 Zee One
+https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",4170 Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Movies",4181 Zee Sine
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Movies",4185 Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",4186 Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+
+# --- Entertainment ---
+#EXTINF:-1 group-title="Entertainment",4061 Real Blast
+https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4073 Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4075 Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4076 The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4078 Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4081 Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4083 Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4084 Letterman TV
+https://d2q9uitg1qpepj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-843x0rz51uzj6/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4088 Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4089 Pointless by Banijay
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4090 Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4097 Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4101 VILN
+https://amg02688-amg02688c1-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4102 Inspire
+https://amg02688-amg02688c2-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c2-amgplt0352/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4103 Apartment
+https://amg02688-amg02688c3-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c3-amgplt0352/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",4145 Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
+
+# --- Documentary ---
+#EXTINF:-1 group-title="Documentary",4070 Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",4085 River Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",4098 Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",4130 Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",4140 History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",4160 Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
+
+# --- Kids ---
+#EXTINF:-1 group-title="Kids",4930 Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",4937 Jelly Jammy World
+https://amg01553-amg01553c1-samsung-ph-7144.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Ani One
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+
+# --- Sports ---
+#EXTINF:-1 group-title="Sports",4109 Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4161 Pulse TV
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4600 Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4601 Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4602 Premier Sports 1
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4603 Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4604 UFC TV
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4605 Premier Football
+https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4621 Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 group-title="Sports",4625 Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8

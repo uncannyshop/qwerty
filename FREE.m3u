@@ -17,13 +17,6 @@ http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="Philippines",Al Jazeera
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ABCLogo.png/revision/latest?cb=20161012105022" group-title="Philippines" tvg-id="",Aliw Channel
 http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -42,13 +35,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Philippines" tvg-id="",Animal Planet
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="Philippines" tvg-id="",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -102,13 +88,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Philippines" tvg-id="",Bilyonaryo Channel
 http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="Philippines" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" channel-number="2" group-title="Philippines",BuKO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -147,13 +126,6 @@ http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Philippines",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Philippines" tvg-id="",Cinemo!
 http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -318,13 +290,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Philippines",History
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Philippines" tvg-id="",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -468,13 +433,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png" group-title="Philippines",Nickelodeon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Philippines",One News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -616,13 +574,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/i
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="Philippines" tvg-id="",THRILL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Philippines",TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -708,26 +659,37 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
 
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",4020 Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",4023 Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",4024 Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",4027 France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="News",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="News" tvg-id="",Al Jazeera
 http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",BBC Comedy (720p)
-https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="BBCFood.us" tvg-logo="",BBC Food (1080p)
-https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="BBCHomeGarden.us" tvg-logo="",BBC Home & Garden (1080p)
-https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="BloombergOriginals.us@US" tvg-logo="",Bloomberg Originals (1080p)
-https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="BloombergTV.us@Plus" tvg-logo="",Bloomberg TV+ (2160p)
-https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="CBCNewsNetwork.ca" tvg-logo="",CBC News (1080p)
-https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News" tvg-id="",Channel News Asia
 http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -749,32 +711,36 @@ http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 group-title="News" tvg-id="EstrellaNews.us@SD" tvg-logo="",Estrella News (1080p)
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="",Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/37/2/phoenix-infonews-channel-logo-png_seeklogo-370521.png" group-title="News" tvg-id="",Phoenix Info News
 http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="WBTVDT1.us" group-title="News" tvg-logo="",WBTV News (720p)
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",4170 Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4JCkzjl.png" group-title="Movies" tvg-id="",Celestial Classic Movies
 http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies" tvg-id="",Cinemax
 http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",Crime ThrillHer (720p)
-https://d1x6vwh5kyhcyb.cloudfront.net/v1/aenetworks_thrillher_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",Genie K Movie (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_350&ads.service_id=US200001137
 
 #EXTINF:-1 group-title="Movies" tvg-id="GravitasMovies.us" tvg-logo="",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Movies" tvg-id="",HBO
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",Lifetime Movies Love & Drama (1080p)
-https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" group-title="Movies" tvg-logo="",Maverick Black Cinema (720p)
 https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
@@ -785,29 +751,51 @@ https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",NEW KMOVIES (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_342&ads.service_id=USAJ30000122O
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",OUTflix Movies (1080p)
-https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Movies" tvg-id="",Tap Movies
 http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="Movies" tvg-id="",THRILL
-http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="",XITE Christian Hits (1080p)
-https://d2tuyivcrvbj81.cloudfront.net/XITE_Christian_Hits.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="Movies" tvg-id="",THRILL
+http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="XITEHits.nl" group-title="Movies" tvg-logo="",XITE Hits (1080p)
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",21 Jump Street (720p)
-https://d1oefjzrirx6fc.cloudfront.net/21_Jump_Street_SONO6.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4073 Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4UV (1080p)
-https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4075 Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4076 The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4078 Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4081 Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4083 Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4089 Pointless by Banijay
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4090 Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4097 Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",4145 Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",60 Days In by A&E (720p)
 https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -818,47 +806,17 @@ https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Entertainment" tvg-id="",ABC Australia
 http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ACCDigitalNetwork.us" tvg-logo="",ACC Digital Network (1080p)
-https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="AccuWeatherNOW.us" tvg-logo="",AccuWeather NOW (1080p)
-https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Acorn TV Mysteries (720p)
-https://d25ms2fshb3tcf.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png",Adult Swim
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",AFV with Alfonso Ribeiro (1080p)
-https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="DUST.us" tvg-logo="",Alien Nation by DUST (1080p)
-https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",All Babies Channel (720p)
 https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",All Out Reality (1080p)
-https://d3kyucsyhwa3ht.cloudfront.net/All_Out_Reality.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="ALLBLKGems.us" tvg-logo="",ALLBLK Gems (720p)
-https://df1zke3zj042m.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="AlwaysFunnyVideos.us" tvg-logo="",Always Funny Videos (720p)
-https://d24l3uppudokci.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="AFV.us" tvg-logo="",America’s Funniest Home Videos (1080p)
-https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",America's Got Talent (720p)
 https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="AnimexHIDIVE.us" tvg-logo="",ANIME x HIDIVE (720p)
-https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="AntiquesRoadshowUK.us" tvg-logo="",Antiques Roadshow UK (720p)
 https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
@@ -866,26 +824,11 @@ https://dbbg0ax8bgo7d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title="Entertainment" tvg-id="",Arirang
 http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="AtHomewithFamilyHandyman.us" tvg-logo="",At Home with Family Handyman (720p)
-https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Ax Men (720p)
-https://d3kx0b11i5yg0n.cloudfront.net/v1/aenetworks_axmen_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Backstage.us" tvg-logo="",Backstage (1080p)
-https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Barbie and Friends (1080p)
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Barney and Friends (720p)
-https://d3vm2nhw5t7pkh.cloudfront.net/v1/cinedigm_entertainment_corp_barneyandfriends_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",batteryPOP (720p)
 https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Beach Bonfire Vibes (1080p)
-https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",BET x Tyler Perry Comedy (1080p)
 https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
@@ -896,26 +839,17 @@ https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Big 12 Studios (1080p)
 https://d18pj8s9gbivdq.cloudfront.net/The_Big_12.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Billboard TV (1080p)
-https://d2zmd59prfyzho.cloudfront.net/Billboard_TV.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Biography The Icons (1080p)
 https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",BizaarTV (720p)
 https://d3s08lnvd4zcd7.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886061/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Blippi (1080p)
-https://d2p70ev1g5q1aj.cloudfront.net/Blippi_SONO46.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="bonappetit.us@SD" tvg-logo="",bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BratTV.us@SD" tvg-logo="",Brat TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Brave Wilderness (1080p)
-https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BS_Fuji_2008_alt.svg/revision/latest/scale-to-width-down/250?cb=20240719135358" group-title="Entertainment" tvg-id="",BS Fuji
 http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -926,56 +860,17 @@ http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="" group-title="Entertainment" tvg-id="",BS10
 http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",BuzzFeed Celeb (1080p)
-https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",BuzzFeed Tasty (1080p)
-https://d2tlbbjop5ksk2.cloudfront.net/BuzzFeed_Tasty.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",BuzzFeed Unsolved (1080p)
-https://d1727vwt6h9ghr.cloudfront.net/BuzzFeed_Unsolved.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="BYUTV.us" tvg-logo="",BYUtv (1080p)
-https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Caillou (720p)
-https://d2mshoh3usf646.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Campfire Vibes (1080p)
-https://d1bcz21zn68he1.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="CanelaTV.us" tvg-logo="",Canela.TV (1080p)
-https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="Entertainment" tvg-id="",CCTV4
 http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="cgtnenglish" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459",CGTN
 http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Challenge Accepted (1080p)
-https://d1vy897y7cwgcv.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="CineRomantico.us" tvg-logo="",Cine Romantico (720p)
 https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Circle.us@SD" tvg-logo="",Circle (1080p)
 https://circle-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="ComedyDynamics.us" tvg-logo="",Comedy Dynamics (1080p)
-https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Coreano by CJ ENM (1080p)
-https://d32e935uzaanj4.cloudfront.net/e66911c8_a9c5_4206_979f_1ad694dcb8ad/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Cozy Vibes (1080p)
-https://d2tyl7oi9wycxs.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",CraftsyTV (1080p)
-https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Crimes Cults Killers (720p)
-https://d3ox1t0pcya837.cloudfront.net/v1/aenetworks_kriminal_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Curiosity Animales (1080p)
 https://d2j2obpavpuw3t.cloudfront.net/CuriosityAnimales.m3u8
@@ -986,47 +881,14 @@ https://d2bvy2sb4c0dbv.cloudfront.net/CuriosityEspanol.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Curiosity Motores (1080p)
 https://d5ts03kapml2e.cloudfront.net/CuriosityMotores.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Cutlers Court (1080p)
-https://d19h40d1rxo1la.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",CW FOREVER (1080p)
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",CW Gold (1080p)
 https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="DangerTV.us" tvg-logo="",DangerTV (720p)
-https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Death Valley Days (1080p)
-https://d49k4i5y48mxv.cloudfront.net/SONO66.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Degrassi.us@US" tvg-logo="",Degrassi (720p)
-https://d3537vnymvfque.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Dhar Mann TV (1080p)
-https://d3p03mkvhnk6ll.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Dinos 24/7 (1080p)
 https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Divorce Court (720p)
-https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="DoveChannel.us" tvg-logo="",Dove Channel (1080p)
-https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="MeritStreet.us" tvg-logo="",Dr Phil's MeritTV (1080p)
-https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Dr. G Medical Examiner (1080p)
-https://d3gjnizphdm6xi.cloudfront.net/Dr_G_Medical_Examiner_SONO15.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="DraftKingsNetwork.us" tvg-logo="",DraftKings Network (1080p)
-https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Drool (1080p)
-https://d119f55zk8yovc.cloudfront.net/Drool.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="DryBarComedyPlus.us" tvg-logo="",Dry Bar Comedy (720p)
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
@@ -1034,20 +896,8 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ducktv.sk" tvg-logo="",ducktv (720p)
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Emeril Lagasse Channel (1080p)
-https://d1ahlswyjfz32r.cloudfront.net/Emeril_Lagasse.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Epic Gardening TV (1080p)
-https://d310j9emjmcwry.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="",ESPN8 The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="EstrellaGames.us" tvg-logo="",Estrella Games (1080p)
-https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="EstrellaTV.us" tvg-logo="",Estrella TV (1080p)
-https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s",EWTN
 http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1082,29 +932,14 @@ http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",FreeTV Estelar (1080p)
 https://d38sud5af047z8.cloudfront.net/ftveu.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Game & Fish TV (1080p)
-https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Genie K Drama (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_351&ads.service_id=US2000012KX
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Ghost Stories (720p)
-https://d3qindbjv75wld.cloudfront.net/v1/ae_networks_unxplainedzonehauntings_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",GolfPass (1080p)
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="GustoTV.ca" tvg-logo="",Gusto TV (720p)
-https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Hagerty (1080p)
 https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="HappyKids.us" tvg-logo="",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="HauntTV.us" tvg-logo="",Haunt TV (1080p)
-https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Historia.es" tvg-logo="",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
@@ -1115,59 +950,11 @@ https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us
 #EXTINF:-1 group-title="Entertainment" tvg-id="HollyWire.us" tvg-logo="",Hollywire (720p)
 https://di1slo8304ver.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="HomeMadeNation.us" tvg-logo="",Home.Made.Nation (720p)
-https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Homeful (1080p)
-https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Horror by ALTER (1080p)
-https://d3opw4b2eztyyq.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Hot Ones (1080p)
-https://d532j1ra4v4q9.cloudfront.net/SONO65.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Hot Wheels Action (1080p)
 https://dtz4aepbew7ez.cloudfront.net/hotwh.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Hungry.us" tvg-logo="",Hungry (720p)
-https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Hunter x Hunter (1080p)
-https://d190au8yjmla79.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",I Survived… (720p)
 https://d1ewp56x5c748d.cloudfront.net/v1/aenetworks_i_survived_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Ice Road Truckers (720p)
-https://d27c7ivrw07fxl.cloudfront.net/v1/aenetworks_iceroadtruckers_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",In Depth with Graham Bensinger (1080p)
-https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Island Vibes (1080p)
-https://d3fe47ml3w3qj1.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",It’s Anime (1080p)
-https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",JoJo's Bizarre Adventure (1080p)
-https://d2kqaqstkr42e1.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Journy.us" tvg-logo="",JOURNY TV (720p)
-https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="JustforLaughsGags.us" tvg-logo="",Just for Laughs GAGS (720p)
-https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",K Drama by CJ ENM (1080p)
-https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",K Drama+ (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_271&ads.service_id=US1700017NM
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",K Food by CJ ENM (1080p)
-https://dmxcualdgbo80.cloudfront.net/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",K POP by CJ ENM (1080p)
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
@@ -1190,17 +977,8 @@ https://d3tf2qfyke992n.cloudfront.net/v1/scripps_laffmore_1/samsungheadend_us/la
 #EXTINF:-1 group-title="Entertainment" tvg-id="LawCrime.us" tvg-logo="",Law & Crime (720p)
 https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Let's Make A Deal Classic (1080p)
-https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="",Live PD Presents (1080p)
-https://d8o79xse42g9s.cloudfront.net/Live_PD_Presents.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="Entertainment" tvg-id="",Living Asia Channel
 http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Localish.us" tvg-logo="",Localish (1080p)
-https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Entertainment" tvg-id="",Lotus Macao
 http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1208,53 +986,20 @@ http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 group-title="Entertainment" tvg-id="LoveNature.ca@4K" tvg-logo="",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-id="LuckyDog.us" group-title="Entertainment" tvg-logo="",Lucky Dog (720p)
-https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Mark Rober TV (1080p)
-https://d217xu4o9hejvm.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Mattel Jr. (720p)
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",MeatEater (1080p)
-https://d7hbn1ntae5ib.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",MHz Mysteries (720p)
 https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MidnightPulp.us" group-title="Entertainment" tvg-logo="",Midnight Pulp (1080p)
-https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Military Heroes (1080p)
-https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
-
 #EXTINF:-1 tvg-id="MoonbugKids.uk" group-title="Entertainment" tvg-logo="",Moonbug (1080p)
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",MotoGP Channel (1080p)
-https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
-
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" group-title="Entertainment" tvg-logo="",Mr. Bean Animated (1080p)
-https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",MrBeast (1080p)
-https://d1uoaa28av70en.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Mysteries Xplored (720p)
 https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Naruto.us@US" group-title="Entertainment" tvg-logo="",Naruto (1080p)
-https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",NASCAR Channel (1080p)
-https://dzz957bqk62e8.cloudfront.net/NASCAR.m3u8
-
 #EXTINF:-1 tvg-id="NBCLX.us" group-title="Entertainment" tvg-logo="",NBC LX Home (1080p)
 https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",NEW KPOP (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_338&ads.service_id=USAJ3000013FJ
 
 #EXTINF:-1 tvg-id="Newsmax2.us@SD" group-title="Entertainment" tvg-logo="",Newsmax 2 (1080p)
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
@@ -1265,23 +1010,14 @@ http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-id="nhk_japan" group-title="Entertainment" tvg-logo="https://i.imgur.com/3zp7a0B.png",NHK World Japan
 http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="NHRATV.us" group-title="Entertainment" tvg-logo="",NHRA TV (1080p)
-https://d265y4sk8257lt.cloudfront.net/nh.m3u8
-
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" group-title="Entertainment" tvg-logo="",Ninja Kidz (720p)
 https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nosey.us@US" group-title="Entertainment" tvg-logo="",Nosey (720p)
 https://wurlnosey.global.transmit.live/hls/678a8e220d785cafbf154147/v1/nosey_2/samsung_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Novelas Turcas (1080p)
-https://d3p1t3yzbr6q5d.cloudfront.net/Novelas_Turcas.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Ocean Vibes (2160p) [Geo-blocked]
 https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Operation Repo (1080p)
-https://d14kyo3ex6k293.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" group-title="Entertainment" tvg-logo="",Outdoor America (1080p)
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
@@ -1292,65 +1028,23 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us" group-title="Entertainment" tvg-logo="",Outside TV (1080p)
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
 
-#EXTINF:-1 tvg-id="Overtime.us" group-title="Entertainment" tvg-logo="",Overtime (1080p)
-https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
-
 #EXTINF:-1 tvg-id="Pac12Insider.us@SD" group-title="Entertainment" tvg-logo="",Pac 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",PBS Digital Studios (1080p)
 https://d1l4qxz5lz9v2h.cloudfront.net/10501/88886029/hls/master.m3u8?ads.xumo_channelId=88886029
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",PBS Food (1080p)
-https://d3w43rc3ob044a.cloudfront.net/PBS_Food.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",PBS Genealogy (1080p)
-https://d21xx25clbv3i1.cloudfront.net/PBS_Genealogy.m3u8
-
-#EXTINF:-1 tvg-id="PBSNature.us" group-title="Entertainment" tvg-logo="",PBS Nature (1080p)
-https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-
-#EXTINF:-1 tvg-id="PBSTravel.us" group-title="Entertainment" tvg-logo="",PBS Travel (1080p)
-https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Perform (720p)
-https://d3shpb2wdlx9qj.cloudfront.net/v1/aenetworks_perform_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",PFL (720p)
 https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pocketwatch.us" group-title="Entertainment" tvg-logo="",pocket.watch Game On (1080p)
-https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
-
-#EXTINF:-1 tvg-id="Portlandia.us" group-title="Entertainment" tvg-logo="",Portlandia (720p)
-https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PowerNationTV.us" group-title="Entertainment" tvg-logo="",POWERNATION (1080p)
-https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
 
 #EXTINF:-1 tvg-id="PursuitUP.us" group-title="Entertainment" tvg-logo="",Pursuit UP (1080p)
 https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Qué Culpa Tiene Fatmagül (1080p)
-https://d1lnbiqw2cduwy.cloudfront.net/que_culpa_tiene_fatmagul.m3u8
-
-#EXTINF:-1 tvg-id="RacerSelect.us" group-title="Entertainment" tvg-logo="",RACER Select (1080p)
-https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Rachael Ray Presents (1080p)
-https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
-
 #EXTINF:-1 tvg-id="RainbowRuby.us" group-title="Entertainment" tvg-logo="",Rainbow Ruby (720p)
 https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Rainy Day Vibes (1080p)
-https://d2fbuk9n5icao0.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RealAmericasVoice.us" group-title="Entertainment" tvg-logo="",Real America's Voice (720p)
 https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
-
-#EXTINF:-1 tvg-id="RetroCrush.us" group-title="Entertainment" tvg-logo="",RetroCrush (1080p)
-https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RevandRoll.us" group-title="Entertainment" tvg-logo="",Rev and Roll (720p)
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
@@ -1361,56 +1055,20 @@ https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RiffTrax.us@US" group-title="Entertainment" tvg-logo="",RiffTrax (720p)
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",RIG TV (1080p)
-https://d3czphc6lk67kh.cloudfront.net/RIG_TV.m3u8
-
-#EXTINF:-1 tvg-id="RugbyPassTV.uk" group-title="Entertainment" tvg-logo="",RugbyPass TV (720p)
-https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RyanandFriends.us" group-title="Entertainment" tvg-logo="",Ryan and Friends (1080p)
-https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Sailor Moon (1080p)
-https://d1uys8fy068s5b.cloudfront.net/dist/samsungtv/1078/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ItYMF-jQgNwrYf1yGCTFpDuFz0T-t9Ba9A&s" group-title="Entertainment" tvg-id="",Saudi TV
 http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqx%2BXO6kYP1duDF0CR%2BT7zbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1635054451771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=17AVARI79W0IXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Sensical Jr (1080p)
-https://d1p10fe1a9f857.cloudfront.net/Sensical_Jr.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Sensical Makers (1080p)
-https://d2dxg18pxtlgy0.cloudfront.net/Sensical_Makers.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Series K Edge (1080p)
-https://d3mznj2vub522l.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Series K Heart (1080p)
 https://d28efmnqar6ea8.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Series K Legacy (1080p)
-https://d2uvezlpjwbhrx.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" group-title="Entertainment" tvg-logo="",Shout! TV (1080p)
-https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Slugterra (720p)
 https://d19m5s4kmtxvps.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",SLVR (1080p)
-https://dnwqx9ivbd7ay.cloudfront.net/bbb/samshow/samshow.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Smosh (1080p)
-https://d2awq8rdysdj3u.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Sonic The Hedgehog (720p)
 https://dtwdcugadwtnw.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.us" group-title="Entertainment" tvg-logo="",Stadium (720p)
 https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Storm Vibes (1080p)
-https://d23gs0zonql31y.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Strawberry Shortcake (720p)
 https://d2tdny619yw5x1.cloudfront.net/master.m3u8
@@ -1424,23 +1082,8 @@ http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Entertainment" tvg-id="",Tap TV
 http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Tastemade Home (1080p)
-https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
-
-#EXTINF:-1 tvg-id="TastemadeTravel.us" group-title="Entertainment" tvg-logo="",Tastemade Travel (1080p)
-https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
-
 #EXTINF:-1 tvg-logo="https://avpn.asia/wp-content/uploads/2018/07/TBN-Asia-Logo.jpg" group-title="Entertainment" tvg-id="",TBN Asia
 http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Team Liquid (1080p)
-https://d3qzt5cx2j8lfl.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Team USA TV (1080p)
-https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
-
-#EXTINF:-1 tvg-id="TED.us" group-title="Entertainment" tvg-logo="",TED (1080p)
-https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Telemundo Al Día (720p)
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
@@ -1453,9 +1096,6 @@ https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="TheAsylum.us@US" group-title="Entertainment" tvg-logo="",The Asylum (1080p)
-https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
-
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" group-title="Entertainment" tvg-logo="",The Design Network (1080p)
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
@@ -1465,41 +1105,17 @@ https://d38ng35fgglvfs.cloudfront.net/The_Jim_Rome_Show.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us" group-title="Entertainment" tvg-logo="",The LEGO Channel (1080p)
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",The Martha Stewart Channel (1080p)
-https://d1ob22c3xga9bf.cloudfront.net/Martha_Stewart_.m3u8
-
 #EXTINF:-1 tvg-id="ThePetCollective.us@US" group-title="Entertainment" tvg-logo="",The Pet Collective (1080p) [Geo-blocked]
 https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",The Ringer from Spotify (1080p)
-https://d34e6a6i7rp7yc.cloudfront.net/SONO91_Spotify.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",The Try Guys (1080p)
-https://d173iv46agmwo9.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheYoungTurks.us@SD" group-title="Entertainment" tvg-logo="",The Young Turks (TYT) (720p)
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",TheSorryGirls TV (1080p)
-https://d11iia85bv1ffj.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",This Old House Makers (1080p)
-https://d1v8bveimipl8w.cloudfront.net/This_Old_House_Makers.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Entertainment" tvg-id="",TMC
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",TNA Wrestling (1080p)
-https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8
-
 #EXTINF:-1 tvg-id="TODAYAllDay.us" group-title="Entertainment" tvg-logo="",TODAY All Day (1080p)
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-id="TopGear.uk" group-title="Entertainment" tvg-logo="",Top Gear (720p)
-https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",TruBlu (720p)
-https://dx5izydu5moez.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest?cb=20220507144624" group-title="Entertainment" tvg-id="",TVE Internacional
 http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1513,47 +1129,8 @@ http://136.239.159.20:6610/001/2/ch00000090990000001199/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Van Helsing (1080p)
 https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
 
-#EXTINF:-1 tvg-id="Vevo70s.us" group-title="Entertainment" tvg-logo="",Vevo '70s (1080p)
-https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8
-
-#EXTINF:-1 tvg-id="Vevo80s.us" group-title="Entertainment" tvg-logo="",Vevo '80s (1080p)
-https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
-
-#EXTINF:-1 tvg-id="Vevo90s.us" group-title="Entertainment" tvg-logo="",Vevo '90s (1080p)
-https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Vevo 2010s (1080p)
-https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8
-
-#EXTINF:-1 tvg-id="Vevo2K.us" group-title="Entertainment" tvg-logo="",Vevo 2K (1080p)
-https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Vevo Country Rewind (1080p)
-https://dtpafgv4jlncv.cloudfront.net/mt/rsu/v1/channel/AZlegsFKILvcvwCBYqT4vQ-V2/index.m3u8
-
-#EXTINF:-1 tvg-id="VevoHipHop.us" group-title="Entertainment" tvg-logo="",Vevo Hip Hop (1080p)
-https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
-
-#EXTINF:-1 tvg-id="VevoLatino.us" group-title="Entertainment" tvg-logo="",Vevo Latino (1080p)
-https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8
-
-#EXTINF:-1 tvg-id="VevoPop.us" group-title="Entertainment" tvg-logo="",Vevo Pop (1080p)
-https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
-
-#EXTINF:-1 tvg-id="VevoRB.us" group-title="Entertainment" tvg-logo="",Vevo R&B (1080p)
-https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
-
 #EXTINF:-1 tvg-id="VevoRetroRock.us" group-title="Entertainment" tvg-logo="",Vevo Retro Rock (1080p)
 https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
-
-#EXTINF:-1 tvg-id="VICETV.us" group-title="Entertainment" tvg-logo="",VICE (1080p)
-https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Victory+ (1080p)
-https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",WAPA+ (1080p)
-https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Entertainment" tvg-id="",Warner TV
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1569,12 +1146,6 @@ https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WildEarth.za" group-title="Entertainment" tvg-logo="",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Winter Vibes (1080p)
-https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WipeoutXtra.us" group-title="Entertainment" tvg-logo="",Wipeout Xtra (1080p)
-https://djoigjo2g1xzo.cloudfront.net/Wipeout_Xtra.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",Witness to Justice (720p)
 https://dxwldsv8fdzik.cloudfront.net/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -1597,17 +1168,11 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl" group-title="Entertainment" tvg-logo="",XITE Reggae Vibes (1080p)
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-
 #EXTINF:-1 tvg-id="XITERockxMetal.nl" group-title="Entertainment" tvg-logo="",XITE Rock x Metal (1080p)
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="",XITE Siempre Latino (1080p)
 https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
-
-#EXTINF:-1 tvg-id="XploreTV.us" group-title="Entertainment" tvg-logo="",Xplore (1080p)
-https://depdwjha9qyli.cloudfront.net/Xplore.m3u8
 
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" group-title="Entertainment" tvg-logo="",Yahoo! Finance (1080p)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
@@ -1621,11 +1186,29 @@ https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-1 tvg-id="YuGiOh.us" group-title="Entertainment" tvg-logo="",Yu Gi Oh (1080p)
-https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4109 Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.sg" group-title="Entertainment" tvg-logo="",ZooMoo (1080p)
-https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4161 Pulse TV
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4601 Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4602 Premier Sports 1
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4603 Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4604 UFC TV
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4621 Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",4625 Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports",Bein Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1661,9 +1244,6 @@ http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest/scale-to-width-down/250?cb=20220528091432" group-title="Sports" tvg-id="",Premier Sports 2
 http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Roku Sports Channel (1080p)
-https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8
-
 #EXTINF:-1 tvg-id="SportsGrid.us@SD" group-title="Sports" tvg-logo="",SportsGrid (1080p)
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 
@@ -1673,38 +1253,55 @@ http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 tvg-id="Unbeaten.us" group-title="Sports" tvg-logo="",Unbeaten Sports Channel (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 
-#EXTINF:-1 tvg-id="WillowSports.us" group-title="Sports" tvg-logo="",Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us" group-title="Sports" tvg-logo="",Women's Sports Network (1080p)
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",WWE Superstar Central (1080p)
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Yahoo! Sports Network (1080p)
-https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",4070 Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",4085 River Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",4098 Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",4130 Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",4140 History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",4160 Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",Alone By History (720p)
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-id="DocumentaryPlus.us@US" tvg-logo="",Documentary+ (1080p)
-https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Documentary" tvg-id="",Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Documentary",History
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
 #EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="",History & Warfare Now (1080p)
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 
-#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" group-title="Documentary" tvg-logo="",Mystery Science Theater 3000 (1080p)
-https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="",Xtreme Outdoor Presented by HISTORY (720p)
-https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="",4930 Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="",Baby Einstein (720p)
 https://ds25p79iq4576.cloudfront.net/master.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="BabySharkTV.us" tvg-logo="",BABY SHARK TV (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_346&ads.service_id=US17000208H
 
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1718,6 +1315,9 @@ https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/amp
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Kids",Cartoonito
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1726,6 +1326,15 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="Kids",Nick Jr
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png" group-title="Kids",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
+
+
 
 
 

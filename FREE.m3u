@@ -2,7 +2,7 @@
 
 *****Movies*****
 #EXTINF:-1 tvg-logo="" group-title="TEST",Movies
-http://176.111.37.126:8080/Friendly.Fire.m3u8
+http://51.38.186.126:1234/stream/movies/testing/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
 #EXTINF:-1 tvg-id="cg_a2z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Cignal",A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
